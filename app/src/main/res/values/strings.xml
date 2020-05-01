@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyFinal_3210</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Home Fragment</string>
+    <string name="selection_fragment_label">Selection Fragment</string>
+    <string name="button_scoreboard">Scoreboard</string>
+    <string name="pick">Pick Players</string>
+    <string name="startNewGame">Start New Game</string>
+    <!-- <string name="new_game">New Game</string> -->
+
+    <string name="items_title">Players</string>
+    <string name="name_title">Name</string>
+    <string name="wins_title">Wins</string>
+    <string name="ties_title">Ties</string>
+    <string name="losses_title">Losses</string>
+    <string name="hello_home_fragment">Menu</string>
+    <string name="hello_selection_fragment">Hello selection fragment. Arg: %1$s</string>
+    <string name="add_player_menu">Add Player Menu</string>
+    <string name="add_player_1">Add Player 1:</string>
+    <string name="add_player_2">Add Player 2:</string>
+    <string name="player_1">Player 1:</string>
+    <string name="player_2">Player 2:</string>
+    <string name="name_edit_textview">test</string>
+    <string name="button_test">test</string>
+</resources>
